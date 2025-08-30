@@ -37,3 +37,10 @@ Check out the deployed version here:
    ```bash
    git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
    ```
+
+2. Navigate to the project directory:
+   ```bash
+   cd YOUR-REPO-NAME
+   ```
+
+3. Open `index.html` in your browser.
