@@ -30,7 +30,20 @@ button {
   border-radius: 6px;
   cursor: pointer;
 }
-
+#addBtn {
+  padding: 10px 12px;
+}
+.input-group {
+  display: flex;
+  margin-bottom: 10px;
+  justify-content: space-between;
+}
+.input-group input {
+  flex: 1;
+  margin-right: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
 button:hover {
   background-color: #2e4778;
 }
